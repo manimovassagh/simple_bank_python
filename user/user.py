@@ -36,3 +36,5 @@ class Account:
         self.amount = self.amount + deposit_value
         print(f"Your new remain is {self.amount}")
         self.say_goodbye_to_user()
+
+
