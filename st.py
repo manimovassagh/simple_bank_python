@@ -9,5 +9,3 @@ class User:
 
 User.print_me()
 User.print_me()
-User.print_me()
-User.print_me()
