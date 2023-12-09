@@ -16,7 +16,7 @@ class Bank:
     def get_accounts(self):
         return self.__accounts
 
-    def transfer_account(self, account: user.Account, receiver_account: user.Account, amount_transfer):
+    def transaction_job(self, account: user.Account, receiver_account: user.Account, amount_transfer):
         if amount_transfer > account.amount:
             print("you can not transfer more than your remain amount")
         else:
