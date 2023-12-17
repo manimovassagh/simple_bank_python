@@ -3,6 +3,15 @@ from user import user
 
 
 # Press the green button in the gutter to run the script.
+# Press the green button in the gutter to run the script.
+# Press the green button in the gutter to run the script.
+# Press the green button in the gutter to run the script.
+# Press the green button in the gutter to run the script.
+# Press the green button in the gutter to run the script.
+# Press the green button in the gutter to run the script.
+# Press the green button in the gutter to run the script.
+
+
 def main():
     bank = b.Bank()
     mani_acc = user.Account("mani@gmail", 140)
@@ -18,7 +27,6 @@ def main():
     bank.transaction_job(sahar_acc, mani_acc, 100)
     bank.transaction_job(sahar_acc, mani_acc, 100)
     print(bank)
-
 
 if __name__ == "__main__":
     
