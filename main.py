@@ -19,21 +19,6 @@ from user import user
 # Press the green button in the gutter to run the script.
 # Press the green button in the gutter to run the script.
 # Press the green button in the gutter to run the script.
-# Press the green button in the gutter to run the script.
-# Press the green button in the gutter to run the script.
-# Press the green button in the gutter to run the script.
-# Press the green button in the gutter to run the script.
-# Press the green button in the gutter to run the script.
-# Press the green button in the gutter to run the script.
-# Press the green button in the gutter to run the script.
-# Press the green button in the gutter to run the script.
-# Press the green button in the gutter to run the script.
-# Press the green button in the gutter to run the script.
-# Press the green button in the gutter to run the script.
-# Press the green button in the gutter to run the script.
-# Press the green button in the gutter to run the script.
-# Press the green button in the gutter to run the script.
-# Press the green button in the gutter to run the script.
 # Press the green butto
 def main():
     bank = b.Bank()
