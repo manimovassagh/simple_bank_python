@@ -35,8 +35,8 @@ def main():
     bank.transaction_job(sahar_acc, mani_acc, 100)
     bank.transaction_job(sahar_acc, mani_acc, 100)
     print(bank)
-def checkkk(name):
-    pass
+
 
 if __name__ == "__main__":
+    
     main()
