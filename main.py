@@ -5,8 +5,8 @@ from user import user
 # Press the green in the gutter to run the script.
 # Press the green button in the gutter to run the script.
 # Press the green button in the gutter to run the script.
-# Press the green button in the gutter to run the script.
-# Press the green button in the gutter to run the script.
+# Press the green  in the gutter to run the script.
+# Press the  the gutter to run the script.
 # Press the green button in the gutter to run the script.
 # Press the green button in the gutter to run the script.
 
