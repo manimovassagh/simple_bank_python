@@ -9,6 +9,8 @@ from user import user
 # Press the green button in the gutter to run the script.
 # Press the green button in the gutter to run the script.
 
+# Press the green button in the gutter to run the script.
+
 def main():
     bank = b.Bank()
     mani_acc = user.Account("mani@gmail", 140)
