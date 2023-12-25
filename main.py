@@ -2,6 +2,7 @@ from banking import bank as b
 from user import user
 
 
+
 def main():
     bank = b.Bank()
     mani_acc = user.Account("mani@gmail", 140)
