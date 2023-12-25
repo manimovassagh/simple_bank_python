@@ -11,14 +11,14 @@ def main():
     sahar_acc.deposit_amount(12.44)
     bank.add_account_to_bank(mani_acc)
     bank.add_account_to_bank(sahar_acc)
-    bank.transfer_account(sahar_acc, mani_acc, 12.44)
-    bank.transfer_account(sahar_acc, mani_acc, 50)
-    bank.transfer_account(sahar_acc, mani_acc, 100)
-    bank.transfer_account(sahar_acc, mani_acc, 100)
-    bank.transfer_account(sahar_acc, mani_acc, 100)
-    bank.transfer_account(sahar_acc, mani_acc, 100)
+    bank.transaction_job(sahar_acc, mani_acc, 12.44)
+    bank.transaction_job(sahar_acc, mani_acc, 50)
+    bank.transaction_job(sahar_acc, mani_acc, 100)
+    bank.transaction_job(sahar_acc, mani_acc, 100)
+    bank.transaction_job(sahar_acc, mani_acc, 100)
+    bank.transaction_job(sahar_acc, mani_acc, 100)
     print(bank)
 
-
 if __name__ == "__main__":
+    
     main()
