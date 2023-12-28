@@ -4,7 +4,7 @@ class Account:
         self.email = email
         self.amount = amount
         self.currency = "Euro"
-    #define test to
+    #define test to the
     def __str__(self):
         return f"The Bank Account holder name is {self.email} and amount is {self.amount} {self.currency}"
 
