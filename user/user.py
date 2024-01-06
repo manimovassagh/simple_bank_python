@@ -5,6 +5,8 @@ class Account:
         self.amount = amount
         self.currency = "Euro"
     #define new
+    #define new
+    #define new
     def __str__(self):
         return f"The Bank Account holder name is {self.email} and amount is {self.amount} {self.currency}"
 

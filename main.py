@@ -2,6 +2,8 @@ from banking import bank as b
 from user import user
 
 
+
+
 def main():
     bank = b.Bank()
     mani_acc = user.Account("mani@gmail", 140)
@@ -17,6 +19,10 @@ def main():
     bank.transaction_job(sahar_acc, mani_acc, 100)
     bank.transaction_job(sahar_acc, mani_acc, 100)
     print(bank)
+
+
+def prin_me_alone(self, check) -> int:
+    return 2
 
 
 if __name__ == "__main__":
