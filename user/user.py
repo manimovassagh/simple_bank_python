@@ -4,10 +4,7 @@ class Account:
         self.email = email
         self.amount = amount
         self.currency = "Euro"
-    def __init__(self, email, amount):
-        self.email = email
-        self.amount = amount
-        self.currency = "Euro"
+    
     #define new
     #define new
     #define new
