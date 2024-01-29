@@ -16,8 +16,3 @@ class User:
         print("Some printing")
 
         print("Some printing")
-
-        print("Some printing")
-
-        User.print_me()
-
