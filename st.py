@@ -13,7 +13,6 @@ class User:
         User.print_me()
         User.print_me()
         User.print_me()
-        User.print_me()
     @staticmethod
     def print_me():
         print("Some printing")
