@@ -15,7 +15,6 @@ class User:
     @staticmethod
     def print_me():
         print("Some printing")
-    @staticmethod
     def print_me():
         print("Some printing")
    
