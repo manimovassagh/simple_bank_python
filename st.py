@@ -15,4 +15,3 @@ class User:
     @staticmethod
     @staticmethod
     def print_me():
-        print("Some printing")
